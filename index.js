@@ -4,7 +4,6 @@ const words=[
 "CSE Student",
 "Problem Solver"
 ];
-
 let i=0;
 let j=0;
 let current="";
